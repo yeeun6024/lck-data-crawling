@@ -1,0 +1,478 @@
+﻿,date,title,stage,team1,team2,win,top1,jg1,mid1,adc1,sup1,top2,jg2,mid2,adc2,sup2
+0,2021.08.29,2021 LCK 서머 포스트 시즌,결승전 4세트,T1,DWG KIA,L,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+1,2021.08.29,2021 LCK 서머 포스트 시즌,결승전 3세트,T1,DWG KIA,W,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+2,2021.08.29,2021 LCK 서머 포스트 시즌,결승전 2세트,DWG KIA,T1,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,T1 Canna,T1 Oner,T1 Faker,T1 Teddy,T1 Keria
+3,2021.08.29,2021 LCK 서머 포스트 시즌,결승전 1세트,DWG KIA,T1,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,T1 Canna,T1 Oner,T1 Faker,T1 Teddy,T1 Keria
+4,2021.08.22,2021 LCK 서머 포스트 시즌,2라운드 2경기 4세트,Gen.G eSports,T1,L,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,T1 Canna,T1 Oner,T1 Faker,T1 Teddy,T1 Keria
+5,2021.08.22,2021 LCK 서머 포스트 시즌,2라운드 2경기 3세트,T1,Gen.G eSports,W,T1 Canna,T1 Oner,T1 Faker,T1 Teddy,T1 Keria,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+6,2021.08.22,2021 LCK 서머 포스트 시즌,2라운드 2경기 2세트,T1,Gen.G eSports,W,T1 Canna,T1 Oner,T1 Faker,T1 Teddy,T1 Keria,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+7,2021.08.22,2021 LCK 서머 포스트 시즌,2라운드 2경기 1세트,Gen.G eSports,T1,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,T1 Canna,T1 Oner,T1 Faker,T1 Teddy,T1 Keria
+8,2021.08.21,2021 LCK 서머 포스트 시즌,2라운드 1경기 3세트,NS RED FORCE,DWG KIA,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+9,2021.08.21,2021 LCK 서머 포스트 시즌,2라운드 1경기 2세트,NS RED FORCE,DWG KIA,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,NS Kellin,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+10,2021.08.21,2021 LCK 서머 포스트 시즌,2라운드 1경기 1세트,DWG KIA,NS RED FORCE,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+11,2021.08.19,2021 LCK 서머 포스트 시즌,1라운드 2경기 3세트,Liiv Sandbox,T1,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,T1 Canna,T1 Oner,T1 Faker,T1 Teddy,T1 Keria
+12,2021.08.19,2021 LCK 서머 포스트 시즌,1라운드 2경기 2세트,Liiv Sandbox,T1,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,T1 Canna,T1 Oner,T1 Faker,T1 Teddy,T1 Keria
+13,2021.08.19,2021 LCK 서머 포스트 시즌,1라운드 2경기 1세트,T1,Liiv Sandbox,W,T1 Canna,T1 Oner,T1 Faker,T1 Teddy,T1 Keria,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+14,2021.08.18,2021 LCK 서머 포스트 시즌,1라운드 1경기 4세트,Afreeca Freecs,NS RED FORCE,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+15,2021.08.18,2021 LCK 서머 포스트 시즌,1라운드 1경기 3세트,NS RED FORCE,Afreeca Freecs,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+16,2021.08.18,2021 LCK 서머 포스트 시즌,1라운드 1경기 2세트,NS RED FORCE,Afreeca Freecs,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+17,2021.08.18,2021 LCK 서머 포스트 시즌,1라운드 1경기 1세트,NS RED FORCE,Afreeca Freecs,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+18,2021.08.15,2021 LoL 챔피언스 코리아 서머 정규 시즌,45일차 2경기 2세트,Gen.G eSports,NS RED FORCE,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+19,2021.08.15,2021 LoL 챔피언스 코리아 서머 정규 시즌,45일차 2경기 1세트,Gen.G eSports,NS RED FORCE,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+20,2021.08.15,2021 LoL 챔피언스 코리아 서머 정규 시즌,45일차 1경기 2세트,T1,Hanwha Life Esports,L,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta
+21,2021.08.15,2021 LoL 챔피언스 코리아 서머 정규 시즌,45일차 1경기 1세트,Hanwha Life Esports,T1,W,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria
+22,2021.08.14,2021 LoL 챔피언스 코리아 서머 정규 시즌,44일차 2경기 3세트,Afreeca Freecs,kt Rolster,W,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,KT Doran,KT Blank,KT Dove,KT 5kid,KT Zzus
+23,2021.08.14,2021 LoL 챔피언스 코리아 서머 정규 시즌,44일차 2경기 2세트,kt Rolster,Afreeca Freecs,L,KT Doran,KT Blank,KT Dove,KT 5kid,KT Zzus,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+24,2021.08.14,2021 LoL 챔피언스 코리아 서머 정규 시즌,44일차 2경기 1세트,Afreeca Freecs,kt Rolster,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,KT Doran,KT GIDEON,KT Ucal,KT 5kid,KT Zzus
+25,2021.08.14,2021 LoL 챔피언스 코리아 서머 정규 시즌,44일차 1경기 2세트,DWG KIA,Liiv Sandbox,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+26,2021.08.14,2021 LoL 챔피언스 코리아 서머 정규 시즌,44일차 1경기 1세트,DWG KIA,Liiv Sandbox,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+27,2021.08.13,2021 LoL 챔피언스 코리아 서머 정규 시즌,43일차 2경기 2세트,DRX,NS RED FORCE,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+28,2021.08.13,2021 LoL 챔피언스 코리아 서머 정규 시즌,43일차 2경기 1세트,DRX,NS RED FORCE,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+29,2021.08.13,2021 LoL 챔피언스 코리아 서머 정규 시즌,43일차 1경기 3세트,Gen.G eSports,Fredit BRION,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+30,2021.08.13,2021 LoL 챔피언스 코리아 서머 정규 시즌,43일차 1경기 2세트,Fredit BRION,Gen.G eSports,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+31,2021.08.13,2021 LoL 챔피언스 코리아 서머 정규 시즌,43일차 1경기 1세트,Gen.G eSports,Fredit BRION,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+32,2021.08.12,2021 LoL 챔피언스 코리아 서머 정규 시즌,42일차 2경기 3세트,Liiv Sandbox,kt Rolster,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,KT Doran,KT Blank,KT Dove,KT 5kid,KT Zzus
+33,2021.08.12,2021 LoL 챔피언스 코리아 서머 정규 시즌,42일차 2경기 2세트,Liiv Sandbox,kt Rolster,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,KT Doran,KT Blank,KT Dove,KT 5kid,KT Zzus
+34,2021.08.12,2021 LoL 챔피언스 코리아 서머 정규 시즌,42일차 2경기 1세트,Liiv Sandbox,kt Rolster,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,KT Doran,KT GIDEON,KT Dove,KT 5kid,KT Zzus
+35,2021.08.12,2021 LoL 챔피언스 코리아 서머 정규 시즌,42일차 1경기 2세트,Hanwha Life Esports,Afreeca Freecs,L,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+36,2021.08.12,2021 LoL 챔피언스 코리아 서머 정규 시즌,42일차 1경기 1세트,Hanwha Life Esports,Afreeca Freecs,L,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+37,2021.08.08,2021 LoL 챔피언스 코리아 서머 정규 시즌,41일차 2경기 2세트,DRX,T1,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria
+38,2021.08.08,2021 LoL 챔피언스 코리아 서머 정규 시즌,41일차 2경기 1세트,T1,DRX,W,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun
+39,2021.08.08,2021 LoL 챔피언스 코리아 서머 정규 시즌,41일차 1경기 2세트,DWG KIA,Gen.G eSports,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+40,2021.08.08,2021 LoL 챔피언스 코리아 서머 정규 시즌,41일차 1경기 1세트,DWG KIA,Gen.G eSports,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,GEN Burdol,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+41,2021.08.07,2021 LoL 챔피언스 코리아 서머 정규 시즌,40일차 2경기 3세트,Liiv Sandbox,Fredit BRION,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+42,2021.08.07,2021 LoL 챔피언스 코리아 서머 정규 시즌,40일차 2경기 2세트,Fredit BRION,Liiv Sandbox,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+43,2021.08.07,2021 LoL 챔피언스 코리아 서머 정규 시즌,40일차 2경기 1세트,Liiv Sandbox,Fredit BRION,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+44,2021.08.07,2021 LoL 챔피언스 코리아 서머 정규 시즌,40일차 1경기 2세트,NS RED FORCE,Afreeca Freecs,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+45,2021.08.07,2021 LoL 챔피언스 코리아 서머 정규 시즌,40일차 1경기 1세트,NS RED FORCE,Afreeca Freecs,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+46,2021.08.06,2021 LoL 챔피언스 코리아 서머 정규 시즌,39일차 2경기 3세트,T1,Gen.G eSports,W,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,GEN Burdol,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+47,2021.08.06,2021 LoL 챔피언스 코리아 서머 정규 시즌,39일차 2경기 2세트,Gen.G eSports,T1,W,GEN Burdol,GEN Clid,GEN BDD,GEN Ruler,GEN Life,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria
+48,2021.08.06,2021 LoL 챔피언스 코리아 서머 정규 시즌,39일차 2경기 1세트,T1,Gen.G eSports,W,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,GEN Burdol,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+49,2021.08.06,2021 LoL 챔피언스 코리아 서머 정규 시즌,39일차 1경기 3세트,DRX,kt Rolster,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,KT Doran,KT Blank,KT Dove,KT 5kid,KT Zzus
+50,2021.08.06,2021 LoL 챔피언스 코리아 서머 정규 시즌,39일차 1경기 2세트,kt Rolster,DRX,L,KT Doran,KT GIDEON,KT Dove,KT 5kid,KT Harp,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun
+51,2021.08.06,2021 LoL 챔피언스 코리아 서머 정규 시즌,39일차 1경기 1세트,DRX,kt Rolster,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,KT Doran,KT GIDEON,KT Dove,KT 5kid,KT Harp
+52,2021.08.05,2021 LoL 챔피언스 코리아 서머 정규 시즌,38일차 2경기 2세트,Hanwha Life Esports,Liiv Sandbox,L,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+53,2021.08.05,2021 LoL 챔피언스 코리아 서머 정규 시즌,38일차 2경기 1세트,Liiv Sandbox,Hanwha Life Esports,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta
+54,2021.08.05,2021 LoL 챔피언스 코리아 서머 정규 시즌,38일차 1경기 2세트,Fredit BRION,DWG KIA,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+55,2021.08.05,2021 LoL 챔피언스 코리아 서머 정규 시즌,38일차 1경기 1세트,Fredit BRION,DWG KIA,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+56,2021.08.01,2021 LoL 챔피언스 코리아 서머 정규 시즌,37일차 2경기 2세트,kt Rolster,DWG KIA,L,KT Doran,KT Blank,KT Dove,KT 5kid,KT Zzus,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+57,2021.08.01,2021 LoL 챔피언스 코리아 서머 정규 시즌,37일차 2경기 1세트,DWG KIA,kt Rolster,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,KT Doran,KT Blank,KT Dove,KT 5kid,KT Zzus
+58,2021.08.01,2021 LoL 챔피언스 코리아 서머 정규 시즌,37일차 1경기 3세트,Hanwha Life Esports,NS RED FORCE,L,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+59,2021.08.01,2021 LoL 챔피언스 코리아 서머 정규 시즌,37일차 1경기 2세트,NS RED FORCE,Hanwha Life Esports,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta
+60,2021.08.01,2021 LoL 챔피언스 코리아 서머 정규 시즌,37일차 1경기 1세트,NS RED FORCE,Hanwha Life Esports,W,NS Rich,NS Peanut,NS Gori,NS Gori,NS Kellin,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta
+61,2021.07.31,2021 LoL 챔피언스 코리아 서머 정규 시즌,36일차 2경기 3세트,Afreeca Freecs,DRX,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun
+62,2021.07.31,2021 LoL 챔피언스 코리아 서머 정규 시즌,36일차 2경기 2세트,DRX,Afreeca Freecs,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+63,2021.07.31,2021 LoL 챔피언스 코리아 서머 정규 시즌,36일차 2경기 1세트,DRX,Afreeca Freecs,W,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+64,2021.07.31,2021 LoL 챔피언스 코리아 서머 정규 시즌,36일차 1경기 3세트,T1,Fredit BRION,W,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+65,2021.07.31,2021 LoL 챔피언스 코리아 서머 정규 시즌,36일차 1경기 2세트,Fredit BRION,T1,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria
+66,2021.07.31,2021 LoL 챔피언스 코리아 서머 정규 시즌,36일차 1경기 1세트,Fredit BRION,T1,L,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria
+67,2021.07.30,2021 LoL 챔피언스 코리아 서머 정규 시즌,35일차 2경기 2세트,kt Rolster,Gen.G eSports,L,KT Doran,KT Blank,KT Dove,KT 5kid,KT Zzus,GEN Burdol,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+68,2021.07.30,2021 LoL 챔피언스 코리아 서머 정규 시즌,35일차 2경기 1세트,kt Rolster,Gen.G eSports,L,KT Doran,KT Blank,KT Dove,KT 5kid,KT Zzus,GEN Burdol,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+69,2021.07.30,2021 LoL 챔피언스 코리아 서머 정규 시즌,35일차 1경기 3세트,NS RED FORCE,Liiv Sandbox,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+70,2021.07.30,2021 LoL 챔피언스 코리아 서머 정규 시즌,35일차 1경기 2세트,NS RED FORCE,Liiv Sandbox,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+71,2021.07.30,2021 LoL 챔피언스 코리아 서머 정규 시즌,35일차 1경기 1세트,Liiv Sandbox,NS RED FORCE,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+72,2021.07.29,2021 LoL 챔피언스 코리아 서머 정규 시즌,34일차 2경기 2세트,Hanwha Life Esports,DRX,W,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun
+73,2021.07.29,2021 LoL 챔피언스 코리아 서머 정규 시즌,34일차 2경기 1세트,DRX,Hanwha Life Esports,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta
+74,2021.07.29,2021 LoL 챔피언스 코리아 서머 정규 시즌,34일차 1경기 3세트,DWG KIA,Afreeca Freecs,L,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+75,2021.07.29,2021 LoL 챔피언스 코리아 서머 정규 시즌,34일차 1경기 2세트,Afreeca Freecs,DWG KIA,W,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+76,2021.07.29,2021 LoL 챔피언스 코리아 서머 정규 시즌,34일차 1경기 1세트,DWG KIA,Afreeca Freecs,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+77,2021.07.25,2021 LoL 챔피언스 코리아 서머 정규 시즌,33일차 2경기 3세트,Hanwha Life Esports,Fredit BRION,W,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight
+78,2021.07.25,2021 LoL 챔피언스 코리아 서머 정규 시즌,33일차 2경기 2세트,Fredit BRION,Hanwha Life Esports,W,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta
+79,2021.07.25,2021 LoL 챔피언스 코리아 서머 정규 시즌,33일차 2경기 1세트,Hanwha Life Esports,Fredit BRION,W,HLE Morgan,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+80,2021.07.25,2021 LoL 챔피언스 코리아 서머 정규 시즌,33일차 1경기 3세트,Gen.G eSports,Afreeca Freecs,L,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+81,2021.07.25,2021 LoL 챔피언스 코리아 서머 정규 시즌,33일차 1경기 2세트,Afreeca Freecs,Gen.G eSports,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+82,2021.07.25,2021 LoL 챔피언스 코리아 서머 정규 시즌,33일차 1경기 1세트,Afreeca Freecs,Gen.G eSports,W,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+83,2021.07.24,2021 LoL 챔피언스 코리아 서머 정규 시즌,32일차 2경기 3세트,T1,Liiv Sandbox,L,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+84,2021.07.24,2021 LoL 챔피언스 코리아 서머 정규 시즌,32일차 2경기 2세트,T1,Liiv Sandbox,W,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+85,2021.07.24,2021 LoL 챔피언스 코리아 서머 정규 시즌,32일차 2경기 1세트,T1,Liiv Sandbox,L,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+86,2021.07.24,2021 LoL 챔피언스 코리아 서머 정규 시즌,32일차 1경기 2세트,DRX,DWG KIA,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+87,2021.07.24,2021 LoL 챔피언스 코리아 서머 정규 시즌,32일차 1경기 1세트,DWG KIA,DRX,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun
+88,2021.07.23,2021 LoL 챔피언스 코리아 서머 정규 시즌,31일차 2경기 3세트,NS RED FORCE,Fredit BRION,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+89,2021.07.23,2021 LoL 챔피언스 코리아 서머 정규 시즌,31일차 2경기 2세트,Fredit BRION,NS RED FORCE,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+90,2021.07.23,2021 LoL 챔피언스 코리아 서머 정규 시즌,31일차 2경기 1세트,Fredit BRION,NS RED FORCE,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+91,2021.07.23,2021 LoL 챔피언스 코리아 서머 정규 시즌,31일차 1경기 2세트,Hanwha Life Esports,kt Rolster,L,HLE DuDu,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta,KT Doran,KT Blank,KT Dove,KT 5kid,KT Zzus
+92,2021.07.23,2021 LoL 챔피언스 코리아 서머 정규 시즌,31일차 1경기 1세트,Hanwha Life Esports,kt Rolster,L,HLE DuDu,HLE Willer,HLE Chovy,HLE Deft,HLE Vsta,KT Doran,KT Blank,KT Dove,KT 5kid,KT Zzus
+93,2021.07.22,2021 LoL 챔피언스 코리아 서머 정규 시즌,30일차 2경기 3세트,T1,Afreeca Freecs,W,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+94,2021.07.22,2021 LoL 챔피언스 코리아 서머 정규 시즌,30일차 2경기 2세트,Afreeca Freecs,T1,W,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria
+95,2021.07.22,2021 LoL 챔피언스 코리아 서머 정규 시즌,30일차 2경기 1세트,T1,Afreeca Freecs,W,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+96,2021.07.22,2021 LoL 챔피언스 코리아 서머 정규 시즌,30일차 1경기 3세트,Liiv Sandbox,Gen.G eSports,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,GEN Rascal,GEN YoungJae,GEN BDD,GEN Ruler,GEN Life
+97,2021.07.22,2021 LoL 챔피언스 코리아 서머 정규 시즌,30일차 1경기 2세트,Gen.G eSports,Liiv Sandbox,W,GEN Rascal,GEN YoungJae,GEN BDD,GEN Ruler,GEN Life,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+98,2021.07.22,2021 LoL 챔피언스 코리아 서머 정규 시즌,30일차 1경기 1세트,Liiv Sandbox,Gen.G eSports,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,GEN Rascal,GEN YoungJae,GEN BDD,GEN Ruler,GEN Life
+99,2021.07.18,2021 LoL 챔피언스 코리아 서머 정규 시즌,29일차 2경기 2세트,NS RED FORCE,kt Rolster,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,KT Doran,KT Blank,KT Dove,KT Noah,KT Zzus
+100,2021.07.18,2021 LoL 챔피언스 코리아 서머 정규 시즌,29일차 2경기 1세트,NS RED FORCE,kt Rolster,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,KT Doran,KT Blank,KT Dove,KT Noah,KT Zzus
+101,2021.07.18,2021 LoL 챔피언스 코리아 서머 정규 시즌,29일차 1경기 3세트,Fredit BRION,DRX,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun
+102,2021.07.18,2021 LoL 챔피언스 코리아 서머 정규 시즌,29일차 1경기 2세트,DRX,Fredit BRION,W,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+103,2021.07.18,2021 LoL 챔피언스 코리아 서머 정규 시즌,29일차 1경기 1세트,Fredit BRION,DRX,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun
+104,2021.07.17,2021 LoL 챔피언스 코리아 서머 정규 시즌,28일차 2경기 3세트,T1,DWG KIA,W,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+105,2021.07.17,2021 LoL 챔피언스 코리아 서머 정규 시즌,28일차 2경기 2세트,T1,DWG KIA,W,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+106,2021.07.17,2021 LoL 챔피언스 코리아 서머 정규 시즌,28일차 2경기 1세트,T1,DWG KIA,L,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+107,2021.07.17,2021 LoL 챔피언스 코리아 서머 정규 시즌,28일차 1경기 3세트,Gen.G eSports,Hanwha Life Esports,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+108,2021.07.17,2021 LoL 챔피언스 코리아 서머 정규 시즌,28일차 1경기 2세트,Hanwha Life Esports,Gen.G eSports,W,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+109,2021.07.17,2021 LoL 챔피언스 코리아 서머 정규 시즌,28일차 1경기 1세트,Gen.G eSports,Hanwha Life Esports,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+110,2021.07.16,2021 LoL 챔피언스 코리아 서머 정규 시즌,27일차 2경기 2세트,DRX,Liiv Sandbox,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+111,2021.07.16,2021 LoL 챔피언스 코리아 서머 정규 시즌,27일차 2경기 1세트,DRX,Liiv Sandbox,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+112,2021.07.16,2021 LoL 챔피언스 코리아 서머 정규 시즌,27일차 1경기 2세트,Afreeca Freecs,Fredit BRION,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+113,2021.07.16,2021 LoL 챔피언스 코리아 서머 정규 시즌,27일차 1경기 1세트,Fredit BRION,Afreeca Freecs,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+114,2021.07.15,2021 LoL 챔피언스 코리아 서머 정규 시즌,26일차 2경기 3세트,DWG KIA,NS RED FORCE,L,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+115,2021.07.15,2021 LoL 챔피언스 코리아 서머 정규 시즌,26일차 2경기 2세트,DWG KIA,NS RED FORCE,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+116,2021.07.15,2021 LoL 챔피언스 코리아 서머 정규 시즌,26일차 2경기 1세트,DWG KIA,NS RED FORCE,L,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+117,2021.07.15,2021 LoL 챔피언스 코리아 서머 정규 시즌,26일차 1경기 2세트,kt Rolster,T1,L,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria
+118,2021.07.15,2021 LoL 챔피언스 코리아 서머 정규 시즌,26일차 1경기 1세트,kt Rolster,T1,L,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,T1 Canna,T1 Oner,T1 Faker,T1 Gumayusi,T1 Keria
+119,2021.07.11,2021 LoL 챔피언스 코리아 서머 정규 시즌,25일차 2경기 2세트,T1,NS RED FORCE,L,T1 Canna,T1 Cuzz,T1 Faker,T1 Gumayusi,T1 Keria,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+120,2021.07.11,2021 LoL 챔피언스 코리아 서머 정규 시즌,25일차 2경기 1세트,NS RED FORCE,T1,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,T1 Canna,T1 Cuzz,T1 Faker,T1 Gumayusi,T1 Keria
+121,2021.07.11,2021 LoL 챔피언스 코리아 서머 정규 시즌,25일차 1경기 2세트,DRX,Gen.G eSports,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+122,2021.07.11,2021 LoL 챔피언스 코리아 서머 정규 시즌,25일차 1경기 1세트,DRX,Gen.G eSports,L,DRX Kingen,DRX Pyosik,DRX Jett,DRX Taeyoon,DRX Jun,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+123,2021.07.10,2021 LoL 챔피언스 코리아 서머 정규 시즌,24일차 2경기 2세트,Hanwha Life Esports,DWG KIA,L,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+124,2021.07.10,2021 LoL 챔피언스 코리아 서머 정규 시즌,24일차 2경기 1세트,Hanwha Life Esports,DWG KIA,L,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+125,2021.07.10,2021 LoL 챔피언스 코리아 서머 정규 시즌,24일차 1경기 3세트,Fredit BRION,kt Rolster,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp
+126,2021.07.10,2021 LoL 챔피언스 코리아 서머 정규 시즌,24일차 1경기 2세트,kt Rolster,Fredit BRION,W,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+127,2021.07.10,2021 LoL 챔피언스 코리아 서머 정규 시즌,24일차 1경기 1세트,Fredit BRION,kt Rolster,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,KT Doran,KT GIDEON,KT Dove,KT Harp,KT Noah
+128,2021.07.09,2021 LoL 챔피언스 코리아 서머 정규 시즌,23일차 2경기 3세트,Afreeca Freecs,Liiv Sandbox,W,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+129,2021.07.09,2021 LoL 챔피언스 코리아 서머 정규 시즌,23일차 2경기 2세트,Liiv Sandbox,Afreeca Freecs,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+130,2021.07.09,2021 LoL 챔피언스 코리아 서머 정규 시즌,23일차 2경기 1세트,Liiv Sandbox,Afreeca Freecs,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+131,2021.07.09,2021 LoL 챔피언스 코리아 서머 정규 시즌,23일차 1경기 2세트,T1,Gen.G eSports,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Gumayusi,T1 Keria,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+132,2021.07.09,2021 LoL 챔피언스 코리아 서머 정규 시즌,23일차 1경기 1세트,T1,Gen.G eSports,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Gumayusi,T1 Keria,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+133,2021.07.08,2021 LoL 챔피언스 코리아 서머 정규 시즌,22일차 2경기 3세트,DRX,Fredit BRION,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX Taeyoon,DRX Jun,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+134,2021.07.08,2021 LoL 챔피언스 코리아 서머 정규 시즌,22일차 2경기 2세트,Fredit BRION,DRX,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX Taeyoon,DRX Jun
+135,2021.07.08,2021 LoL 챔피언스 코리아 서머 정규 시즌,22일차 2경기 1세트,DRX,Fredit BRION,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX Taeyoon,DRX Jun,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+136,2021.07.08,2021 LoL 챔피언스 코리아 서머 정규 시즌,22일차 1경기 3세트,Hanwha Life Esports,kt Rolster,W,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp
+137,2021.07.08,2021 LoL 챔피언스 코리아 서머 정규 시즌,22일차 1경기 2세트,kt Rolster,Hanwha Life Esports,L,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+138,2021.07.08,2021 LoL 챔피언스 코리아 서머 정규 시즌,22일차 1경기 1세트,kt Rolster,Hanwha Life Esports,W,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+139,2021.07.07,2021 LoL 챔피언스 코리아 서머 정규 시즌,21일차 2경기 2세트,Afreeca Freecs,NS RED FORCE,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+140,2021.07.07,2021 LoL 챔피언스 코리아 서머 정규 시즌,21일차 2경기 1세트,Afreeca Freecs,NS RED FORCE,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+141,2021.07.07,2021 LoL 챔피언스 코리아 서머 정규 시즌,21일차 1경기 2세트,Liiv Sandbox,DWG KIA,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+142,2021.07.07,2021 LoL 챔피언스 코리아 서머 정규 시즌,21일차 1경기 1세트,Liiv Sandbox,DWG KIA,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+143,2021.07.04,2021 LoL 챔피언스 코리아 서머 정규 시즌,20일차 2경기 2세트,DWG KIA,Gen.G eSports,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+144,2021.07.04,2021 LoL 챔피언스 코리아 서머 정규 시즌,20일차 2경기 1세트,Gen.G eSports,DWG KIA,L,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+145,2021.07.04,2021 LoL 챔피언스 코리아 서머 정규 시즌,20일차 1경기 3세트,NS RED FORCE,Hanwha Life Esports,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+146,2021.07.04,2021 LoL 챔피언스 코리아 서머 정규 시즌,20일차 1경기 2세트,Hanwha Life Esports,NS RED FORCE,W,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+147,2021.07.04,2021 LoL 챔피언스 코리아 서머 정규 시즌,20일차 1경기 1세트,Hanwha Life Esports,NS RED FORCE,L,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+148,2021.07.03,2021 LoL 챔피언스 코리아 서머 정규 시즌,19일차 2경기 3세트,Liiv Sandbox,DRX,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+149,2021.07.03,2021 LoL 챔피언스 코리아 서머 정규 시즌,19일차 2경기 2세트,Liiv Sandbox,DRX,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+150,2021.07.03,2021 LoL 챔피언스 코리아 서머 정규 시즌,19일차 2경기 1세트,Liiv Sandbox,DRX,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+151,2021.07.03,2021 LoL 챔피언스 코리아 서머 정규 시즌,19일차 1경기 3세트,T1,Afreeca Freecs,L,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+152,2021.07.03,2021 LoL 챔피언스 코리아 서머 정규 시즌,19일차 1경기 2세트,Afreeca Freecs,T1,W,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+153,2021.07.03,2021 LoL 챔피언스 코리아 서머 정규 시즌,19일차 1경기 1세트,T1,Afreeca Freecs,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+154,2021.07.02,2021 LoL 챔피언스 코리아 서머 정규 시즌,18일차 2경기 2세트,kt Rolster,Fredit BRION,W,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,BRO Hoya,BRO Chieftain,BRO Lava,BRO Hena,BRO Delight
+155,2021.07.02,2021 LoL 챔피언스 코리아 서머 정규 시즌,18일차 2경기 1세트,Fredit BRION,kt Rolster,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp
+156,2021.07.02,2021 LoL 챔피언스 코리아 서머 정규 시즌,18일차 1경기 3세트,NS RED FORCE,DWG KIA,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+157,2021.07.02,2021 LoL 챔피언스 코리아 서머 정규 시즌,18일차 1경기 2세트,NS RED FORCE,DWG KIA,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+158,2021.07.02,2021 LoL 챔피언스 코리아 서머 정규 시즌,18일차 1경기 1세트,NS RED FORCE,DWG KIA,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+159,2021.07.01,2021 LoL 챔피언스 코리아 서머 정규 시즌,17일차 2경기 3세트,Liiv Sandbox,Afreeca Freecs,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+160,2021.07.01,2021 LoL 챔피언스 코리아 서머 정규 시즌,17일차 2경기 2세트,Afreeca Freecs,Liiv Sandbox,W,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+161,2021.07.01,2021 LoL 챔피언스 코리아 서머 정규 시즌,17일차 2경기 1세트,Afreeca Freecs,Liiv Sandbox,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+162,2021.07.01,2021 LoL 챔피언스 코리아 서머 정규 시즌,17일차 1경기 2세트,DRX,Hanwha Life Esports,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+163,2021.07.01,2021 LoL 챔피언스 코리아 서머 정규 시즌,17일차 1경기 1세트,Hanwha Life Esports,DRX,W,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+164,2021.06.30,2021 LoL 챔피언스 코리아 서머 정규 시즌,16일차 2경기 3세트,Fredit BRION,Gen.G eSports,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+165,2021.06.30,2021 LoL 챔피언스 코리아 서머 정규 시즌,16일차 2경기 2세트,Gen.G eSports,Fredit BRION,L,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+166,2021.06.30,2021 LoL 챔피언스 코리아 서머 정규 시즌,16일차 2경기 1세트,Fredit BRION,Gen.G eSports,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+167,2021.06.30,2021 LoL 챔피언스 코리아 서머 정규 시즌,16일차 1경기 3세트,kt Rolster,T1,L,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+168,2021.06.30,2021 LoL 챔피언스 코리아 서머 정규 시즌,16일차 1경기 2세트,kt Rolster,T1,W,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+169,2021.06.30,2021 LoL 챔피언스 코리아 서머 정규 시즌,16일차 1경기 1세트,T1,kt Rolster,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp
+170,2021.06.27,2021 LoL 챔피언스 코리아 서머 정규 시즌,15일차 2경기 3세트,kt Rolster,Liiv Sandbox,L,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+171,2021.06.27,2021 LoL 챔피언스 코리아 서머 정규 시즌,15일차 2경기 2세트,Liiv Sandbox,kt Rolster,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp
+172,2021.06.27,2021 LoL 챔피언스 코리아 서머 정규 시즌,15일차 2경기 1세트,kt Rolster,Liiv Sandbox,W,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+173,2021.06.27,2021 LoL 챔피언스 코리아 서머 정규 시즌,15일차 1경기 2세트,DRX,T1,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+174,2021.06.27,2021 LoL 챔피언스 코리아 서머 정규 시즌,15일차 1경기 1세트,DRX,T1,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+175,2021.06.26,2021 LoL 챔피언스 코리아 서머 정규 시즌,14일차 2경기 2세트,NS RED FORCE,Fredit BRION,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+176,2021.06.26,2021 LoL 챔피언스 코리아 서머 정규 시즌,14일차 2경기 1세트,NS RED FORCE,Fredit BRION,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+177,2021.06.26,2021 LoL 챔피언스 코리아 서머 정규 시즌,14일차 1경기 2세트,Afreeca Freecs,Gen.G eSports,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+178,2021.06.26,2021 LoL 챔피언스 코리아 서머 정규 시즌,14일차 1경기 1세트,Afreeca Freecs,Gen.G eSports,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+179,2021.06.25,2021 LoL 챔피언스 코리아 서머 정규 시즌,13일차 2경기 3세트,DWG KIA,Hanwha Life Esports,W,DK Khan,DK Canyon,DK ShowMaker,DK Malrang,DK BeryL,HLE DuDu,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+180,2021.06.25,2021 LoL 챔피언스 코리아 서머 정규 시즌,13일차 2경기 2세트,DWG KIA,Hanwha Life Esports,W,DK Khan,DK Canyon,DK ShowMaker,DK Malrang,DK BeryL,HLE DuDu,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+181,2021.06.25,2021 LoL 챔피언스 코리아 서머 정규 시즌,13일차 2경기 1세트,DWG KIA,Hanwha Life Esports,L,DK Khan,DK Canyon,DK ShowMaker,DK Malrang,DK BeryL,HLE DuDu,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+182,2021.06.25,2021 LoL 챔피언스 코리아 서머 정규 시즌,13일차 1경기 2세트,DRX,kt Rolster,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp
+183,2021.06.25,2021 LoL 챔피언스 코리아 서머 정규 시즌,13일차 1경기 1세트,kt Rolster,DRX,W,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+184,2021.06.24,2021 LoL 챔피언스 코리아 서머 정규 시즌,12일차 2경기 2세트,T1,NS RED FORCE,L,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+185,2021.06.24,2021 LoL 챔피언스 코리아 서머 정규 시즌,12일차 2경기 1세트,T1,NS RED FORCE,L,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+186,2021.06.24,2021 LoL 챔피언스 코리아 서머 정규 시즌,12일차 1경기 3세트,Liiv Sandbox,Gen.G eSports,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+187,2021.06.24,2021 LoL 챔피언스 코리아 서머 정규 시즌,12일차 1경기 2세트,Liiv Sandbox,Gen.G eSports,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+188,2021.06.24,2021 LoL 챔피언스 코리아 서머 정규 시즌,12일차 1경기 1세트,Liiv Sandbox,Gen.G eSports,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+189,2021.06.23,2021 LoL 챔피언스 코리아 서머 정규 시즌,11일차 2경기 3세트,Fredit BRION,DWG KIA,W,BRO Hoya,BRO Chieftain,BRO Lava,BRO Hena,BRO Delight,DK Khan,DK Canyon,DK ShowMaker,DK Malrang,DK BeryL
+190,2021.06.23,2021 LoL 챔피언스 코리아 서머 정규 시즌,11일차 2경기 2세트,DWG KIA,Fredit BRION,W,DK Khan,DK Canyon,DK ShowMaker,DK Malrang,DK BeryL,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+191,2021.06.23,2021 LoL 챔피언스 코리아 서머 정규 시즌,11일차 2경기 1세트,DWG KIA,Fredit BRION,L,DK Khan,DK Canyon,DK ShowMaker,DK Malrang,DK BeryL,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+192,2021.06.23,2021 LoL 챔피언스 코리아 서머 정규 시즌,11일차 1경기 2세트,Afreeca Freecs,Hanwha Life Esports,W,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+193,2021.06.23,2021 LoL 챔피언스 코리아 서머 정규 시즌,11일차 1경기 1세트,Hanwha Life Esports,Afreeca Freecs,L,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+194,2021.06.20,2021 LoL 챔피언스 코리아 서머 정규 시즌,10일차 2경기 3세트,Hanwha Life Esports,Fredit BRION,W,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+195,2021.06.20,2021 LoL 챔피언스 코리아 서머 정규 시즌,10일차 2경기 2세트,Fredit BRION,Hanwha Life Esports,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+196,2021.06.20,2021 LoL 챔피언스 코리아 서머 정규 시즌,10일차 2경기 1세트,Fredit BRION,Hanwha Life Esports,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+197,2021.06.20,2021 LoL 챔피언스 코리아 서머 정규 시즌,10일차 1경기 2세트,T1,Liiv Sandbox,L,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+198,2021.06.20,2021 LoL 챔피언스 코리아 서머 정규 시즌,10일차 1경기 1세트,Liiv Sandbox,T1,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+199,2021.06.19,2021 LoL 챔피언스 코리아 서머 정규 시즌,9일차 2경기 3세트,kt Rolster,Afreeca Freecs,L,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+200,2021.06.19,2021 LoL 챔피언스 코리아 서머 정규 시즌,9일차 2경기 2세트,Afreeca Freecs,kt Rolster,W,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp
+201,2021.06.19,2021 LoL 챔피언스 코리아 서머 정규 시즌,9일차 2경기 1세트,Afreeca Freecs,kt Rolster,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp
+202,2021.06.19,2021 LoL 챔피언스 코리아 서머 정규 시즌,9일차 1경기 2세트,DRX,DWG KIA,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,DK Khan,DK Canyon,DK ShowMaker,DK Malrang,DK BeryL
+203,2021.06.19,2021 LoL 챔피언스 코리아 서머 정규 시즌,9일차 1경기 1세트,DWG KIA,DRX,W,DK Khan,DK Canyon,DK ShowMaker,DK Malrang,DK BeryL,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+204,2021.06.18,2021 LoL 챔피언스 코리아 서머 정규 시즌,8일차 2경기 3세트,NS RED FORCE,Gen.G eSports,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+205,2021.06.18,2021 LoL 챔피언스 코리아 서머 정규 시즌,8일차 2경기 2세트,NS RED FORCE,Gen.G eSports,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+206,2021.06.18,2021 LoL 챔피언스 코리아 서머 정규 시즌,8일차 2경기 1세트,NS RED FORCE,Gen.G eSports,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+207,2021.06.18,2021 LoL 챔피언스 코리아 서머 정규 시즌,8일차 1경기 2세트,Hanwha Life Esports,Liiv Sandbox,L,HLE DuDu,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+208,2021.06.18,2021 LoL 챔피언스 코리아 서머 정규 시즌,8일차 1경기 1세트,Liiv Sandbox,Hanwha Life Esports,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,HLE DuDu,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+209,2021.06.17,2021 LoL 챔피언스 코리아 서머 정규 시즌,7일차 2경기 2세트,Afreeca Freecs,DWG KIA,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,DK Khan,DK Canyon,DK ShowMaker,DK Malrang,DK BeryL
+210,2021.06.17,2021 LoL 챔피언스 코리아 서머 정규 시즌,7일차 2경기 1세트,DWG KIA,Afreeca Freecs,W,DK Khan,DK Canyon,DK ShowMaker,DK Malrang,DK BeryL,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+211,2021.06.17,2021 LoL 챔피언스 코리아 서머 정규 시즌,7일차 1경기 2세트,Fredit BRION,T1,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+212,2021.06.17,2021 LoL 챔피언스 코리아 서머 정규 시즌,7일차 1경기 1세트,T1,Fredit BRION,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+213,2021.06.16,2021 LoL 챔피언스 코리아 서머 정규 시즌,6일차 2경기 3세트,kt Rolster,Gen.G eSports,L,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+214,2021.06.16,2021 LoL 챔피언스 코리아 서머 정규 시즌,6일차 2경기 2세트,kt Rolster,Gen.G eSports,W,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+215,2021.06.16,2021 LoL 챔피언스 코리아 서머 정규 시즌,6일차 2경기 1세트,kt Rolster,Gen.G eSports,L,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+216,2021.06.16,2021 LoL 챔피언스 코리아 서머 정규 시즌,6일차 1경기 3세트,NS RED FORCE,DRX,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+217,2021.06.16,2021 LoL 챔피언스 코리아 서머 정규 시즌,6일차 1경기 2세트,DRX,NS RED FORCE,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+218,2021.06.16,2021 LoL 챔피언스 코리아 서머 정규 시즌,6일차 1경기 1세트,NS RED FORCE,DRX,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+219,2021.06.13,2021 LoL 챔피언스 코리아 서머 정규 시즌,5일차 2경기 2세트,Afreeca Freecs,DRX,W,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+220,2021.06.13,2021 LoL 챔피언스 코리아 서머 정규 시즌,5일차 2경기 1세트,DRX,Afreeca Freecs,L,DRX Destroy,DRX Pyosik,DRX Kingen,DRX BAO,DRX Becca,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+221,2021.06.13,2021 LoL 챔피언스 코리아 서머 정규 시즌,5일차 1경기 2세트,DWG KIA,kt Rolster,L,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp
+222,2021.06.13,2021 LoL 챔피언스 코리아 서머 정규 시즌,5일차 1경기 1세트,kt Rolster,DWG KIA,W,KT Doran,KT Blank,KT Dove,KT Noah,KT Harp,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+223,2021.06.12,2021 LoL 챔피언스 코리아 서머 정규 시즌,4일차 2경기 2세트,Hanwha Life Esports,Gen.G eSports,L,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+224,2021.06.12,2021 LoL 챔피언스 코리아 서머 정규 시즌,4일차 2경기 1세트,Hanwha Life Esports,Gen.G eSports,L,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+225,2021.06.12,2021 LoL 챔피언스 코리아 서머 정규 시즌,4일차 1경기 3세트,Liiv Sandbox,NS RED FORCE,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+226,2021.06.12,2021 LoL 챔피언스 코리아 서머 정규 시즌,4일차 1경기 2세트,NS RED FORCE,Liiv Sandbox,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+227,2021.06.12,2021 LoL 챔피언스 코리아 서머 정규 시즌,4일차 1경기 1세트,NS RED FORCE,Liiv Sandbox,L,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+228,2021.06.11,2021 LoL 챔피언스 코리아 서머 정규 시즌,3일차 2경기 3세트,DWG KIA,T1,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+229,2021.06.11,2021 LoL 챔피언스 코리아 서머 정규 시즌,3일차 2경기 2세트,T1,DWG KIA,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+230,2021.06.11,2021 LoL 챔피언스 코리아 서머 정규 시즌,3일차 2경기 1세트,DWG KIA,T1,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+231,2021.06.11,2021 LoL 챔피언스 코리아 서머 정규 시즌,3일차 1경기 3세트,Fredit BRION,Afreeca Freecs,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends
+232,2021.06.11,2021 LoL 챔피언스 코리아 서머 정규 시즌,3일차 1경기 2세트,Afreeca Freecs,Fredit BRION,W,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+233,2021.06.11,2021 LoL 챔피언스 코리아 서머 정규 시즌,3일차 1경기 1세트,Afreeca Freecs,Fredit BRION,L,AF Kiin,AF Dread,AF Fly,AF Leo,AF Lehends,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+234,2021.06.10,2021 LoL 챔피언스 코리아 서머 정규 시즌,2일차 2경기 3세트,Gen.G eSports,DRX,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+235,2021.06.10,2021 LoL 챔피언스 코리아 서머 정규 시즌,2일차 2경기 2세트,DRX,Gen.G eSports,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+236,2021.06.10,2021 LoL 챔피언스 코리아 서머 정규 시즌,2일차 2경기 1세트,Gen.G eSports,DRX,L,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+237,2021.06.10,2021 LoL 챔피언스 코리아 서머 정규 시즌,2일차 1경기 3세트,kt Rolster,NS RED FORCE,L,KT Doran,KT Blank,KT Dove,KT Noah,KT Zzus,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+238,2021.06.10,2021 LoL 챔피언스 코리아 서머 정규 시즌,2일차 1경기 2세트,NS RED FORCE,kt Rolster,W,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin,KT Doran,KT Blank,KT Dove,KT Noah,KT Zzus
+239,2021.06.10,2021 LoL 챔피언스 코리아 서머 정규 시즌,2일차 1경기 1세트,kt Rolster,NS RED FORCE,W,KT Doran,KT Blank,KT Dove,KT Noah,KT Zzus,NS Rich,NS Peanut,NS Gori,NS deokdam,NS Kellin
+240,2021.06.09,2021 LoL 챔피언스 코리아 서머 정규 시즌,1일차 2경기 2세트,Hanwha Life Esports,T1,L,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+241,2021.06.09,2021 LoL 챔피언스 코리아 서머 정규 시즌,1일차 2경기 1세트,T1,Hanwha Life Esports,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+242,2021.06.09,2021 LoL 챔피언스 코리아 서머 정규 시즌,1일차 1경기 2세트,Liiv Sandbox,Fredit BRION,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+243,2021.06.09,2021 LoL 챔피언스 코리아 서머 정규 시즌,1일차 1경기 1세트,Fredit BRION,Liiv Sandbox,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+244,2021.04.11,2021 LCK 스프링 포스트 시즌,결승전 3세트,Gen.G eSports,DWG KIA,L,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+245,2021.04.11,2021 LCK 스프링 포스트 시즌,결승전 2세트,Gen.G eSports,DWG KIA,L,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+246,2021.04.11,2021 LCK 스프링 포스트 시즌,결승전 1세트,DWG KIA,Gen.G eSports,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+247,2021.04.04,2021 LCK 스프링 포스트 시즌,플레이오프 2라운드 2경기 3세트,T1,Gen.G eSports,L,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+248,2021.04.04,2021 LCK 스프링 포스트 시즌,플레이오프 2라운드 2경기 2세트,Gen.G eSports,T1,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+249,2021.04.04,2021 LCK 스프링 포스트 시즌,플레이오프 2라운드 2경기 1세트,T1,Gen.G eSports,L,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+250,2021.04.03,2021 LCK 스프링 포스트 시즌,플레이오프 2라운드 1경기 3세트,DWG KIA,Hanwha Life Esports,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+251,2021.04.03,2021 LCK 스프링 포스트 시즌,플레이오프 2라운드 1경기 2세트,Hanwha Life Esports,DWG KIA,L,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+252,2021.04.03,2021 LCK 스프링 포스트 시즌,플레이오프 2라운드 1경기 1세트,DWG KIA,Hanwha Life Esports,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+253,2021.04.01,2021 LCK 스프링 포스트 시즌,플레이오프 1라운드 2경기 4세트,DRX,T1,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+254,2021.04.01,2021 LCK 스프링 포스트 시즌,플레이오프 1라운드 2경기 3세트,T1,DRX,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+255,2021.04.01,2021 LCK 스프링 포스트 시즌,플레이오프 1라운드 2경기 2세트,DRX,T1,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+256,2021.04.01,2021 LCK 스프링 포스트 시즌,플레이오프 1라운드 2경기 1세트,T1,DRX,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+257,2021.03.31,2021 LCK 스프링 포스트 시즌,플레이오프 1라운드 1경기 5세트,Hanwha Life Esports,NS RED FORCE,W,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+258,2021.03.31,2021 LCK 스프링 포스트 시즌,플레이오프 1라운드 1경기 4세트,NS RED FORCE,Hanwha Life Esports,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+259,2021.03.31,2021 LCK 스프링 포스트 시즌,플레이오프 1라운드 1경기 3세트,Hanwha Life Esports,NS RED FORCE,W,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+260,2021.03.31,2021 LCK 스프링 포스트 시즌,플레이오프 1라운드 1경기 2세트,Hanwha Life Esports,NS RED FORCE,L,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+261,2021.03.31,2021 LCK 스프링 포스트 시즌,플레이오프 1라운드 1경기 1세트,Hanwha Life Esports,NS RED FORCE,W,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+262,2021.03.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,45일차 2경기 3세트,Liiv Sandbox,DRX,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+263,2021.03.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,45일차 2경기 2세트,DRX,Liiv Sandbox,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+264,2021.03.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,45일차 2경기 1세트,Liiv Sandbox,DRX,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+265,2021.03.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,45일차 1경기 2세트,T1,Hanwha Life Esports,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+266,2021.03.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,45일차 1경기 1세트,Hanwha Life Esports,T1,L,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+267,2021.03.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,44일차 2경기 2세트,Fredit BRION,NS RED FORCE,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+268,2021.03.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,44일차 2경기 1세트,NS RED FORCE,Fredit BRION,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+269,2021.03.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,44일차 1경기 3세트,DWG KIA,kt Rolster,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,KT Doran,KT GIDEON,KT Dove,KT Noah,KT Zzus
+270,2021.03.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,44일차 1경기 2세트,kt Rolster,DWG KIA,L,KT Doran,KT GIDEON,KT Dove,KT Noah,KT Zzus,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+271,2021.03.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,44일차 1경기 1세트,DWG KIA,kt Rolster,L,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,KT Doran,KT GIDEON,KT Dove,KT Noah,KT Zzus
+272,2021.03.26,2021 LoL 챔피언스 코리아 스프링 정규 시즌,43일차 2경기 2세트,Liiv Sandbox,Afreeca Freecs,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+273,2021.03.26,2021 LoL 챔피언스 코리아 스프링 정규 시즌,43일차 2경기 1세트,Afreeca Freecs,Liiv Sandbox,W,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+274,2021.03.26,2021 LoL 챔피언스 코리아 스프링 정규 시즌,43일차 1경기 2세트,Gen.G eSports,DRX,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+275,2021.03.26,2021 LoL 챔피언스 코리아 스프링 정규 시즌,43일차 1경기 1세트,DRX,Gen.G eSports,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+276,2021.03.25,2021 LoL 챔피언스 코리아 스프링 정규 시즌,42일차 2경기 3세트,kt Rolster,NS RED FORCE,W,KT Doran,KT GIDEON,KT Dove,KT Noah,KT Zzus,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+277,2021.03.25,2021 LoL 챔피언스 코리아 스프링 정규 시즌,42일차 2경기 2세트,NS RED FORCE,kt Rolster,L,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,KT Doran,KT GIDEON,KT Dove,KT Noah,KT Zzus
+278,2021.03.25,2021 LoL 챔피언스 코리아 스프링 정규 시즌,42일차 2경기 1세트,kt Rolster,NS RED FORCE,L,KT Doran,KT GIDEON,KT Dove,KT Noah,KT Zzus,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+279,2021.03.25,2021 LoL 챔피언스 코리아 스프링 정규 시즌,42일차 1경기 2세트,Hanwha Life Esports,Fredit BRION,W,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight
+280,2021.03.25,2021 LoL 챔피언스 코리아 스프링 정규 시즌,42일차 1경기 1세트,Fredit BRION,Hanwha Life Esports,L,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+281,2021.03.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,41일차 2경기 3세트,T1,Afreeca Freecs,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+282,2021.03.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,41일차 2경기 2세트,Afreeca Freecs,T1,W,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+283,2021.03.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,41일차 2경기 1세트,T1,Afreeca Freecs,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+284,2021.03.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,41일차 1경기 2세트,DWG KIA,DRX,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+285,2021.03.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,41일차 1경기 1세트,DRX,DWG KIA,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+286,2021.03.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,40일차 2경기 3세트,kt Rolster,Gen.G eSports,L,KT Doran,KT GIDEON,KT Dove,KT Noah,KT Zzus,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+287,2021.03.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,40일차 2경기 2세트,Gen.G eSports,kt Rolster,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,KT Doran,KT GIDEON,KT Dove,KT Noah,KT Zzus
+288,2021.03.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,40일차 2경기 1세트,kt Rolster,Gen.G eSports,W,KT Doran,KT GIDEON,KT Dove,KT Noah,KT Zzus,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+289,2021.03.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,40일차 1경기 2세트,Fredit BRION,Liiv Sandbox,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+290,2021.03.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,40일차 1경기 1세트,Liiv Sandbox,Fredit BRION,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+291,2021.03.19,2021 LoL 챔피언스 코리아 스프링 정규 시즌,39일차 2경기 2세트,DRX,T1,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+292,2021.03.19,2021 LoL 챔피언스 코리아 스프링 정규 시즌,39일차 2경기 1세트,T1,DRX,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+293,2021.03.19,2021 LoL 챔피언스 코리아 스프링 정규 시즌,39일차 1경기 2세트,NS RED FORCE,Afreeca Freecs,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+294,2021.03.19,2021 LoL 챔피언스 코리아 스프링 정규 시즌,39일차 1경기 1세트,Afreeca Freecs,NS RED FORCE,L,AF Kiin,AF Dread,AF Fly,AF Bang,AF MapSSi,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+295,2021.03.18,2021 LoL 챔피언스 코리아 스프링 정규 시즌,38일차 2경기 2세트,kt Rolster,Hanwha Life Esports,L,KT Doran,KT GIDEON,KT Ucal,KT Noah,KT Zzus,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+296,2021.03.18,2021 LoL 챔피언스 코리아 스프링 정규 시즌,38일차 2경기 1세트,Hanwha Life Esports,kt Rolster,W,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,KT Doran,KT GIDEON,KT Ucal,KT HyBrid,KT Zzus
+297,2021.03.18,2021 LoL 챔피언스 코리아 스프링 정규 시즌,38일차 1경기 3세트,Gen.G eSports,DWG KIA,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+298,2021.03.18,2021 LoL 챔피언스 코리아 스프링 정규 시즌,38일차 1경기 2세트,DWG KIA,Gen.G eSports,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+299,2021.03.18,2021 LoL 챔피언스 코리아 스프링 정규 시즌,38일차 1경기 1세트,Gen.G eSports,DWG KIA,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+300,2021.03.14,2021 LoL 챔피언스 코리아 스프링 정규 시즌,37일차 2경기 2세트,NS RED FORCE,DWG KIA,L,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+301,2021.03.14,2021 LoL 챔피언스 코리아 스프링 정규 시즌,37일차 2경기 1세트,DWG KIA,NS RED FORCE,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+302,2021.03.14,2021 LoL 챔피언스 코리아 스프링 정규 시즌,37일차 1경기 3세트,Liiv Sandbox,Hanwha Life Esports,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+303,2021.03.14,2021 LoL 챔피언스 코리아 스프링 정규 시즌,37일차 1경기 2세트,Hanwha Life Esports,Liiv Sandbox,L,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+304,2021.03.14,2021 LoL 챔피언스 코리아 스프링 정규 시즌,37일차 1경기 1세트,Liiv Sandbox,Hanwha Life Esports,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+305,2021.03.13,2021 LoL 챔피언스 코리아 스프링 정규 시즌,36일차 2경기 2세트,Afreeca Freecs,Fredit BRION,L,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight
+306,2021.03.13,2021 LoL 챔피언스 코리아 스프링 정규 시즌,36일차 2경기 1세트,Fredit BRION,Afreeca Freecs,W,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+307,2021.03.13,2021 LoL 챔피언스 코리아 스프링 정규 시즌,36일차 1경기 2세트,T1,Gen.G eSports,W,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+308,2021.03.13,2021 LoL 챔피언스 코리아 스프링 정규 시즌,36일차 1경기 1세트,Gen.G eSports,T1,L,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,T1 Canna,T1 Cuzz,T1 Faker,T1 Teddy,T1 Keria
+309,2021.03.12,2021 LoL 챔피언스 코리아 스프링 정규 시즌,35일차 2경기 3세트,NS RED FORCE,DRX,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+310,2021.03.12,2021 LoL 챔피언스 코리아 스프링 정규 시즌,35일차 2경기 2세트,DRX,NS RED FORCE,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+311,2021.03.12,2021 LoL 챔피언스 코리아 스프링 정규 시즌,35일차 2경기 1세트,NS RED FORCE,DRX,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+312,2021.03.12,2021 LoL 챔피언스 코리아 스프링 정규 시즌,35일차 1경기 2세트,Liiv Sandbox,kt Rolster,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,KT Doran,KT GIDEON,KT Ucal,KT HyBrid,KT Zzus
+313,2021.03.12,2021 LoL 챔피언스 코리아 스프링 정규 시즌,35일차 1경기 1세트,kt Rolster,Liiv Sandbox,L,KT Doran,KT GIDEON,KT Ucal,KT HyBrid,KT Zzus,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+314,2021.03.11,2021 LoL 챔피언스 코리아 스프링 정규 시즌,34일차 2경기 2세트,Hanwha Life Esports,Afreeca Freecs,W,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+315,2021.03.11,2021 LoL 챔피언스 코리아 스프링 정규 시즌,34일차 2경기 1세트,Afreeca Freecs,Hanwha Life Esports,L,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+316,2021.03.11,2021 LoL 챔피언스 코리아 스프링 정규 시즌,34일차 1경기 2세트,DWG KIA,Fredit BRION,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+317,2021.03.11,2021 LoL 챔피언스 코리아 스프링 정규 시즌,34일차 1경기 1세트,Fredit BRION,DWG KIA,L,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+318,2021.03.07,2021 LoL 챔피언스 코리아 스프링 정규 시즌,33일차 2경기 3세트,Gen.G eSports,Hanwha Life Esports,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+319,2021.03.07,2021 LoL 챔피언스 코리아 스프링 정규 시즌,33일차 2경기 1세트,Hanwha Life Esports,Gen.G eSports,L,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+320,2021.03.07,2021 LoL 챔피언스 코리아 스프링 정규 시즌,33일차 1경기 2세트,Fredit BRION,DRX,L,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+321,2021.03.07,2021 LoL 챔피언스 코리아 스프링 정규 시즌,33일차 1경기 1세트,DRX,Fredit BRION,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight
+322,2021.03.06,2021 LoL 챔피언스 코리아 스프링 정규 시즌,32일차 2경기 2세트,kt Rolster,T1,L,KT Doran,KT GIDEON,KT Dove,KT HyBrid,KT Zzus,T1 Zeus,T1 Ellim,T1 Clozer,T1 Teddy,T1 Keria
+323,2021.03.06,2021 LoL 챔피언스 코리아 스프링 정규 시즌,32일차 2경기 1세트,T1,kt Rolster,W,T1 Zeus,T1 Ellim,T1 Clozer,T1 Teddy,T1 Keria,KT Doran,KT GIDEON,KT Dove,KT HyBrid,KT Zzus
+324,2021.03.06,2021 LoL 챔피언스 코리아 스프링 정규 시즌,32일차 1경기 2세트,Afreeca Freecs,DWG KIA,L,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+325,2021.03.06,2021 LoL 챔피언스 코리아 스프링 정규 시즌,32일차 1경기 1세트,DWG KIA,Afreeca Freecs,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+326,2021.03.05,2021 LoL 챔피언스 코리아 스프링 정규 시즌,31일차 2경기 2세트,Liiv Sandbox,Gen.G eSports,W,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+327,2021.03.05,2021 LoL 챔피언스 코리아 스프링 정규 시즌,31일차 2경기 1세트,Gen.G eSports,Liiv Sandbox,L,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+328,2021.03.05,2021 LoL 챔피언스 코리아 스프링 정규 시즌,31일차 1경기 2세트,NS RED FORCE,Hanwha Life Esports,L,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+329,2021.03.05,2021 LoL 챔피언스 코리아 스프링 정규 시즌,31일차 1경기 1세트,Hanwha Life Esports,NS RED FORCE,W,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+330,2021.03.04,2021 LoL 챔피언스 코리아 스프링 정규 시즌,30일차 2경기 2세트,T1,Fredit BRION,L,T1 Zeus,T1 Oner,T1 Clozer,T1 Gumayusi,T1 Keria,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight
+331,2021.03.04,2021 LoL 챔피언스 코리아 스프링 정규 시즌,30일차 2경기 1세트,Fredit BRION,T1,W,BRO Hoya,BRO UmTi,BRO Yaharong,BRO Hena,BRO Delight,T1 Zeus,T1 Oner,T1 Clozer,T1 Gumayusi,T1 Keria
+332,2021.03.04,2021 LoL 챔피언스 코리아 스프링 정규 시즌,30일차 1경기 3세트,kt Rolster,DRX,L,KT Doran,KT GIDEON,KT Ucal,KT HyBrid,KT Zzus,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+333,2021.03.04,2021 LoL 챔피언스 코리아 스프링 정규 시즌,30일차 1경기 2세트,DRX,kt Rolster,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,KT Doran,KT GIDEON,KT Ucal,KT HyBrid,KT Zzus
+334,2021.03.04,2021 LoL 챔피언스 코리아 스프링 정규 시즌,30일차 1경기 1세트,kt Rolster,DRX,L,KT Doran,KT GIDEON,KT Ucal,KT HyBrid,KT Zzus,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+335,2021.02.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,29일차 2경기 2세트,NS RED FORCE,Liiv Sandbox,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort
+336,2021.02.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,29일차 2경기 1세트,Liiv Sandbox,NS RED FORCE,L,LSB Summit,LSB Croco,LSB Fate,LSB Prince,LSB Effort,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+337,2021.02.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,29일차 1경기 3세트,Gen.G eSports,Afreeca Freecs,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+338,2021.02.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,29일차 1경기 2세트,Afreeca Freecs,Gen.G eSports,L,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+339,2021.02.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,29일차 1경기 1세트,Gen.G eSports,Afreeca Freecs,L,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+340,2021.02.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,28일차 2경기 3세트,T1,DWG KIA,L,T1 Zeus,T1 Oner,T1 Clozer,T1 Teddy,T1 Keria,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+341,2021.02.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,28일차 2경기 2세트,DWG KIA,T1,L,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,T1 Zeus,T1 Oner,T1 Clozer,T1 Teddy,T1 Keria
+342,2021.02.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,28일차 2경기 1세트,T1,DWG KIA,L,T1 Zeus,T1 Oner,T1 Clozer,T1 Teddy,T1 Keria,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+343,2021.02.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,28일차 1경기 2세트,Hanwha Life Esports,DRX,W,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+344,2021.02.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,28일차 1경기 1세트,DRX,Hanwha Life Esports,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,HLE Morgan,HLE yoHan,HLE Chovy,HLE Deft,HLE Vsta
+345,2021.02.26,2021 LoL 챔피언스 코리아 스프링 정규 시즌,27일차 2경기 2세트,kt Rolster,Afreeca Freecs,L,KT Doran,KT GIDEON,KT Ucal,KT HyBrid,KT Zzus,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+346,2021.02.26,2021 LoL 챔피언스 코리아 스프링 정규 시즌,27일차 2경기 1세트,Afreeca Freecs,kt Rolster,W,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,KT Doran,KT GIDEON,KT Dove,KT HyBrid,KT Zzus
+347,2021.02.26,2021 LoL 챔피언스 코리아 스프링 정규 시즌,27일차 1경기 3세트,Gen.G eSports,Fredit BRION,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+348,2021.02.26,2021 LoL 챔피언스 코리아 스프링 정규 시즌,27일차 1경기 2세트,Fredit BRION,Gen.G eSports,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+349,2021.02.26,2021 LoL 챔피언스 코리아 스프링 정규 시즌,27일차 1경기 1세트,Gen.G eSports,Fredit BRION,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+350,2021.02.25,2021 LoL 챔피언스 코리아 스프링 정규 시즌,26일차 2경기 2세트,Liiv Sandbox,DWG KIA,L,LSB Summit,LSB OnFleek,LSB Fate,LSB Prince,LSB Effort,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+351,2021.02.25,2021 LoL 챔피언스 코리아 스프링 정규 시즌,26일차 2경기 1세트,DWG KIA,Liiv Sandbox,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,LSB Summit,LSB OnFleek,LSB Fate,LSB Prince,LSB Effort
+352,2021.02.25,2021 LoL 챔피언스 코리아 스프링 정규 시즌,26일차 1경기 2세트,T1,NS RED FORCE,W,T1 Zeus,T1 Oner,T1 Clozer,T1 Teddy,T1 Keria,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+353,2021.02.25,2021 LoL 챔피언스 코리아 스프링 정규 시즌,26일차 1경기 1세트,NS RED FORCE,T1,L,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,T1 Zeus,T1 Oner,T1 Clozer,T1 Teddy,T1 Keria
+354,2021.02.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,25일차 2경기 2세트,T1,Liiv Sandbox,W,T1 Zeus,T1 Oner,T1 Clozer,T1 Teddy,T1 Keria,LSB Summit,LSB OnFleek,LSB Fate,LSB Prince,LSB Effort
+355,2021.02.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,25일차 2경기 1세트,Liiv Sandbox,T1,L,LSB Summit,LSB OnFleek,LSB Fate,LSB Prince,LSB Effort,T1 Zeus,T1 Oner,T1 Clozer,T1 Teddy,T1 Keria
+356,2021.02.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,25일차 1경기 3세트,Afreeca Freecs,DRX,L,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+357,2021.02.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,25일차 1경기 2세트,DRX,Afreeca Freecs,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+358,2021.02.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,25일차 1경기 1세트,Afreeca Freecs,DRX,W,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+359,2021.02.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,24일차 2경기 3세트,Hanwha Life Esports,DWG KIA,L,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+360,2021.02.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,24일차 2경기 2세트,DWG KIA,Hanwha Life Esports,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+361,2021.02.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,24일차 2경기 1세트,Hanwha Life Esports,DWG KIA,W,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+362,2021.02.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,24일차 1경기 2세트,Gen.G eSports,NS RED FORCE,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+363,2021.02.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,24일차 1경기 1세트,NS RED FORCE,Gen.G eSports,L,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+364,2021.02.19,2021 LoL 챔피언스 코리아 스프링 정규 시즌,23일차 2경기 2세트,Fredit BRION,kt Rolster,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,KT Doran,KT GIDEON,KT Dove,KT HyBrid,KT Zzus
+365,2021.02.19,2021 LoL 챔피언스 코리아 스프링 정규 시즌,23일차 2경기 1세트,kt Rolster,Fredit BRION,W,KT Doran,KT GIDEON,KT Dove,KT HyBrid,KT Zzus,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+366,2021.02.19,2021 LoL 챔피언스 코리아 스프링 정규 시즌,23일차 1경기 3세트,DRX,T1,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,T1 Zeus,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria
+367,2021.02.19,2021 LoL 챔피언스 코리아 스프링 정규 시즌,23일차 1경기 2세트,T1,DRX,W,T1 Zeus,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+368,2021.02.19,2021 LoL 챔피언스 코리아 스프링 정규 시즌,23일차 1경기 1세트,DRX,T1,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,T1 Zeus,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria
+369,2021.02.18,2021 LoL 챔피언스 코리아 스프링 정규 시즌,22일차 2경기 2세트,Gen.G eSports,Afreeca Freecs,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+370,2021.02.18,2021 LoL 챔피언스 코리아 스프링 정규 시즌,22일차 2경기 1세트,Afreeca Freecs,Gen.G eSports,L,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+371,2021.02.18,2021 LoL 챔피언스 코리아 스프링 정규 시즌,22일차 1경기 3세트,NS RED FORCE,Hanwha Life Esports,L,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+372,2021.02.18,2021 LoL 챔피언스 코리아 스프링 정규 시즌,22일차 1경기 2세트,Hanwha Life Esports,NS RED FORCE,W,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+373,2021.02.18,2021 LoL 챔피언스 코리아 스프링 정규 시즌,22일차 1경기 1세트,NS RED FORCE,Hanwha Life Esports,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+374,2021.02.17,2021 LoL 챔피언스 코리아 스프링 정규 시즌,21일차 2경기 2세트,Liiv Sandbox,Fredit BRION,L,LSB Summit,LSB Croco,LSB Fate,LSB Route,LSB Effort,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+375,2021.02.17,2021 LoL 챔피언스 코리아 스프링 정규 시즌,21일차 2경기 1세트,Fredit BRION,Liiv Sandbox,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,LSB Summit,LSB Croco,LSB Fate,LSB Route,LSB Effort
+376,2021.02.17,2021 LoL 챔피언스 코리아 스프링 정규 시즌,21일차 1경기 3세트,kt Rolster,DWG KIA,L,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+377,2021.02.17,2021 LoL 챔피언스 코리아 스프링 정규 시즌,21일차 1경기 2세트,DWG KIA,kt Rolster,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus
+378,2021.02.17,2021 LoL 챔피언스 코리아 스프링 정규 시즌,21일차 1경기 1세트,kt Rolster,DWG KIA,W,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+379,2021.02.07,2021 LoL 챔피언스 코리아 스프링 정규 시즌,20일차 2경기 2세트,DRX,DWG KIA,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+380,2021.02.07,2021 LoL 챔피언스 코리아 스프링 정규 시즌,20일차 2경기 1세트,DWG KIA,DRX,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+381,2021.02.07,2021 LoL 챔피언스 코리아 스프링 정규 시즌,20일차 1경기 2세트,Liiv Sandbox,Hanwha Life Esports,W,LSB Summit,LSB Croco,LSB Fate,LSB Route,LSB Effort,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+382,2021.02.07,2021 LoL 챔피언스 코리아 스프링 정규 시즌,20일차 1경기 1세트,Hanwha Life Esports,Liiv Sandbox,L,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,LSB Summit,LSB Croco,LSB Fate,LSB Route,LSB Effort
+383,2021.02.06,2021 LoL 챔피언스 코리아 스프링 정규 시즌,19일차 2경기 3세트,kt Rolster,Afreeca Freecs,W,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+384,2021.02.06,2021 LoL 챔피언스 코리아 스프링 정규 시즌,19일차 2경기 2세트,Afreeca Freecs,kt Rolster,W,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus
+385,2021.02.06,2021 LoL 챔피언스 코리아 스프링 정규 시즌,19일차 2경기 1세트,kt Rolster,Afreeca Freecs,W,KT Doran,KT Bonnie,KT Dove,KT HyBrid,KT Zzus,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+386,2021.02.06,2021 LoL 챔피언스 코리아 스프링 정규 시즌,19일차 1경기 2세트,Fredit BRION,T1,L,BRO Hoya,BRO UmTi,BRO Chieftain,BRO Hena,BRO Delight,T1 Zeus,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria
+387,2021.02.06,2021 LoL 챔피언스 코리아 스프링 정규 시즌,19일차 1경기 1세트,T1,Fredit BRION,W,T1 Zeus,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria,BRO Hoya,BRO UmTi,BRO Chieftain,BRO Hena,BRO Delight
+388,2021.02.05,2021 LoL 챔피언스 코리아 스프링 정규 시즌,18일차 2경기 2세트,NS RED FORCE,Gen.G eSports,L,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+389,2021.02.05,2021 LoL 챔피언스 코리아 스프링 정규 시즌,18일차 2경기 1세트,Gen.G eSports,NS RED FORCE,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+390,2021.02.05,2021 LoL 챔피언스 코리아 스프링 정규 시즌,18일차 1경기 2세트,DWG KIA,Liiv Sandbox,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,LSB Summit,LSB Croco,LSB Fate,LSB Route,LSB Effort
+391,2021.02.05,2021 LoL 챔피언스 코리아 스프링 정규 시즌,18일차 1경기 1세트,Liiv Sandbox,DWG KIA,L,LSB Summit,LSB Croco,LSB Fate,LSB Route,LSB Effort,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+392,2021.02.04,2021 LoL 챔피언스 코리아 스프링 정규 시즌,17일차 2경기 3세트,Fredit BRION,kt Rolster,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,KT Doran,KT Bonnie,KT Dove,KT HyBrid,KT Zzus
+393,2021.02.04,2021 LoL 챔피언스 코리아 스프링 정규 시즌,17일차 2경기 2세트,kt Rolster,Fredit BRION,W,KT Doran,KT Bonnie,KT Dove,KT HyBrid,KT Zzus,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+394,2021.02.04,2021 LoL 챔피언스 코리아 스프링 정규 시즌,17일차 2경기 1세트,Fredit BRION,kt Rolster,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus
+395,2021.02.04,2021 LoL 챔피언스 코리아 스프링 정규 시즌,17일차 1경기 3세트,Hanwha Life Esports,Afreeca Freecs,W,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+396,2021.02.04,2021 LoL 챔피언스 코리아 스프링 정규 시즌,17일차 1경기 2세트,Afreeca Freecs,Hanwha Life Esports,W,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+397,2021.02.04,2021 LoL 챔피언스 코리아 스프링 정규 시즌,17일차 1경기 1세트,Hanwha Life Esports,Afreeca Freecs,W,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+398,2021.02.03,2021 LoL 챔피언스 코리아 스프링 정규 시즌,16일차 2경기 3세트,Gen.G eSports,DRX,L,GEN Rascal,GEN Clid,GEN Karis,GEN Ruler,GEN Life,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+399,2021.02.03,2021 LoL 챔피언스 코리아 스프링 정규 시즌,16일차 2경기 2세트,DRX,Gen.G eSports,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,GEN Rascal,GEN Clid,GEN Karis,GEN Ruler,GEN Life
+400,2021.02.03,2021 LoL 챔피언스 코리아 스프링 정규 시즌,16일차 2경기 1세트,Gen.G eSports,DRX,L,GEN Rascal,GEN Clid,GEN Karis,GEN Ruler,GEN Life,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+401,2021.02.03,2021 LoL 챔피언스 코리아 스프링 정규 시즌,16일차 1경기 3세트,T1,NS RED FORCE,W,T1 Zeus,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+402,2021.02.03,2021 LoL 챔피언스 코리아 스프링 정규 시즌,16일차 1경기 2세트,NS RED FORCE,T1,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,T1 Zeus,T1 Ellim,T1 Faker,T1 Teddy,T1 Keria
+403,2021.02.03,2021 LoL 챔피언스 코리아 스프링 정규 시즌,16일차 1경기 1세트,T1,NS RED FORCE,W,T1 Zeus,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+404,2021.01.31,2021 LoL 챔피언스 코리아 스프링 정규 시즌,15일차 2경기 2세트,kt Rolster,NS RED FORCE,L,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+405,2021.01.31,2021 LoL 챔피언스 코리아 스프링 정규 시즌,15일차 2경기 1세트,NS RED FORCE,kt Rolster,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus
+406,2021.01.31,2021 LoL 챔피언스 코리아 스프링 정규 시즌,15일차 1경기 2세트,T1,Afreeca Freecs,L,T1 Canna,T1 Cuzz,T1 Clozer,T1 Teddy,T1 Keria,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+407,2021.01.31,2021 LoL 챔피언스 코리아 스프링 정규 시즌,15일차 1경기 1세트,Afreeca Freecs,T1,W,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,T1 Canna,T1 Cuzz,T1 Clozer,T1 Teddy,T1 Keria
+408,2021.01.30,2021 LoL 챔피언스 코리아 스프링 정규 시즌,14일차 2경기 2세트,Gen.G eSports,Liiv Sandbox,W,GEN Rascal,GEN Flawless,GEN BDD,GEN Ruler,GEN Life,LSB Summit,LSB Croco,LSB Fate,LSB Leo,LSB Effort
+409,2021.01.30,2021 LoL 챔피언스 코리아 스프링 정규 시즌,14일차 2경기 1세트,Liiv Sandbox,Gen.G eSports,L,LSB Summit,LSB Croco,LSB Fate,LSB Leo,LSB Effort,GEN Rascal,GEN Flawless,GEN BDD,GEN Ruler,GEN Life
+410,2021.01.30,2021 LoL 챔피언스 코리아 스프링 정규 시즌,14일차 1경기 3세트,Fredit BRION,DRX,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+411,2021.01.30,2021 LoL 챔피언스 코리아 스프링 정규 시즌,14일차 1경기 2세트,DRX,Fredit BRION,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+412,2021.01.30,2021 LoL 챔피언스 코리아 스프링 정규 시즌,14일차 1경기 1세트,Fredit BRION,DRX,L,BRO Hoya,BRO Chieftain,BRO Lava,BRO Hena,BRO Delight,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+413,2021.01.29,2021 LoL 챔피언스 코리아 스프링 정규 시즌,13일차 2경기 2세트,Hanwha Life Esports,DWG KIA,L,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+414,2021.01.29,2021 LoL 챔피언스 코리아 스프링 정규 시즌,13일차 2경기 1세트,DWG KIA,Hanwha Life Esports,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+415,2021.01.29,2021 LoL 챔피언스 코리아 스프링 정규 시즌,13일차 1경기 2세트,Afreeca Freecs,NS RED FORCE,W,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+416,2021.01.29,2021 LoL 챔피언스 코리아 스프링 정규 시즌,13일차 1경기 1세트,NS RED FORCE,Afreeca Freecs,L,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+417,2021.01.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,12일차 2경기 2세트,Liiv Sandbox,T1,L,LSB Summit,LSB Croco,LSB Fate,LSB Leo,LSB Effort,T1 Canna,T1 Cuzz,T1 Clozer,T1 Teddy,T1 Keria
+418,2021.01.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,12일차 2경기 1세트,T1,Liiv Sandbox,W,T1 Canna,T1 Cuzz,T1 Clozer,T1 Teddy,T1 Keria,LSB Summit,LSB Croco,LSB Fate,LSB Leo,LSB Effort
+419,2021.01.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,12일차 1경기 2세트,kt Rolster,DRX,W,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+420,2021.01.28,2021 LoL 챔피언스 코리아 스프링 정규 시즌,12일차 1경기 1세트,DRX,kt Rolster,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus
+421,2021.01.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,11일차 2경기 3세트,DWG KIA,Gen.G eSports,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,GEN Rascal,GEN Flawless,GEN BDD,GEN Ruler,GEN Life
+422,2021.01.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,11일차 2경기 2세트,Gen.G eSports,DWG KIA,L,GEN Rascal,GEN Flawless,GEN BDD,GEN Ruler,GEN Life,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+423,2021.01.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,11일차 2경기 1세트,DWG KIA,Gen.G eSports,L,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,GEN Rascal,GEN Flawless,GEN BDD,GEN Ruler,GEN Life
+424,2021.01.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,11일차 1경기 2세트,Fredit BRION,Hanwha Life Esports,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+425,2021.01.27,2021 LoL 챔피언스 코리아 스프링 정규 시즌,11일차 1경기 1세트,Hanwha Life Esports,Fredit BRION,W,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+426,2021.01.24,2021 LoL 챔피언스 코리아 스프링 정규 시즌,10일차 2경기 3세트,Gen.G eSports,Hanwha Life Esports,L,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+427,2021.01.24,2021 LoL 챔피언스 코리아 스프링 정규 시즌,10일차 2경기 2세트,Hanwha Life Esports,Gen.G eSports,W,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+428,2021.01.24,2021 LoL 챔피언스 코리아 스프링 정규 시즌,10일차 2경기 1세트,Gen.G eSports,Hanwha Life Esports,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+429,2021.01.24,2021 LoL 챔피언스 코리아 스프링 정규 시즌,10일차 1경기 3세트,kt Rolster,T1,W,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus,T1 Canna,T1 Ellim,T1 Clozer,T1 Gumayusi,T1 Keria
+430,2021.01.24,2021 LoL 챔피언스 코리아 스프링 정규 시즌,10일차 1경기 2세트,T1,kt Rolster,L,T1 Canna,T1 Ellim,T1 Clozer,T1 Gumayusi,T1 Keria,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus
+431,2021.01.24,2021 LoL 챔피언스 코리아 스프링 정규 시즌,10일차 1경기 1세트,kt Rolster,T1,L,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus,T1 Canna,T1 Ellim,T1 Clozer,T1 Gumayusi,T1 Keria
+432,2021.01.23,2021 LoL 챔피언스 코리아 스프링 정규 시즌,9일차 2경기 2세트,NS RED FORCE,Fredit BRION,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+433,2021.01.23,2021 LoL 챔피언스 코리아 스프링 정규 시즌,9일차 2경기 1세트,Fredit BRION,NS RED FORCE,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+434,2021.01.23,2021 LoL 챔피언스 코리아 스프링 정규 시즌,9일차 1경기 2세트,DWG KIA,Afreeca Freecs,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+435,2021.01.23,2021 LoL 챔피언스 코리아 스프링 정규 시즌,9일차 1경기 1세트,Afreeca Freecs,DWG KIA,L,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+436,2021.01.22,2021 LoL 챔피언스 코리아 스프링 정규 시즌,8일차 2경기 3세트,DRX,Liiv Sandbox,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,LSB Summit,LSB Croco,LSB Fate,LSB Leo,LSB Effort
+437,2021.01.22,2021 LoL 챔피언스 코리아 스프링 정규 시즌,8일차 2경기 2세트,Liiv Sandbox,DRX,W,LSB Summit,LSB Croco,LSB Fate,LSB Leo,LSB Effort,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+438,2021.01.22,2021 LoL 챔피언스 코리아 스프링 정규 시즌,8일차 2경기 1세트,DRX,Liiv Sandbox,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,LSB Summit,LSB Croco,LSB Fate,LSB Leo,LSB Effort
+439,2021.01.22,2021 LoL 챔피언스 코리아 스프링 정규 시즌,8일차 1경기 3세트,kt Rolster,Hanwha Life Esports,L,KT Doran,KT Bonnie,KT Ucal,KT HyBrid,KT Zzus,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+440,2021.01.22,2021 LoL 챔피언스 코리아 스프링 정규 시즌,8일차 1경기 2세트,Hanwha Life Esports,kt Rolster,W,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus
+441,2021.01.22,2021 LoL 챔피언스 코리아 스프링 정규 시즌,8일차 1경기 1세트,kt Rolster,Hanwha Life Esports,W,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+442,2021.01.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,7일차 2경기 2세트,Fredit BRION,DWG KIA,W,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+443,2021.01.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,7일차 2경기 1세트,DWG KIA,Fredit BRION,L,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+444,2021.01.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,7일차 1경기 3세트,T1,Gen.G eSports,L,T1 Canna,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+445,2021.01.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,7일차 1경기 2세트,Gen.G eSports,T1,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,T1 Canna,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria
+446,2021.01.21,2021 LoL 챔피언스 코리아 스프링 정규 시즌,7일차 1경기 1세트,T1,Gen.G eSports,W,T1 Canna,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+447,2021.01.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,6일차 2경기 3세트,DRX,NS RED FORCE,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+448,2021.01.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,6일차 2경기 2세트,NS RED FORCE,DRX,L,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+449,2021.01.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,6일차 2경기 1세트,DRX,NS RED FORCE,L,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+450,2021.01.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,6일차 1경기 2세트,Afreeca Freecs,Liiv Sandbox,L,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,LSB Summit,LSB Croco,LSB Fate,LSB Leo,LSB Effort
+451,2021.01.20,2021 LoL 챔피언스 코리아 스프링 정규 시즌,6일차 1경기 1세트,Liiv Sandbox,Afreeca Freecs,W,LSB Summit,LSB Croco,LSB Fate,LSB Leo,LSB Effort,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+452,2021.01.17,2021 LoL 챔피언스 코리아 스프링 정규 시즌,5일차 2경기 2세트,Fredit BRION,Afreeca Freecs,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+453,2021.01.17,2021 LoL 챔피언스 코리아 스프링 정규 시즌,5일차 2경기 1세트,Afreeca Freecs,Fredit BRION,W,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+454,2021.01.17,2021 LoL 챔피언스 코리아 스프링 정규 시즌,5일차 1경기 2세트,DWG KIA,NS RED FORCE,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+455,2021.01.17,2021 LoL 챔피언스 코리아 스프링 정규 시즌,5일차 1경기 1세트,NS RED FORCE,DWG KIA,L,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+456,2021.01.16,2021 LoL 챔피언스 코리아 스프링 정규 시즌,4일차 2경기 3세트,Hanwha Life Esports,DRX,W,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+457,2021.01.16,2021 LoL 챔피언스 코리아 스프링 정규 시즌,4일차 2경기 2세트,DRX,Hanwha Life Esports,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+458,2021.01.16,2021 LoL 챔피언스 코리아 스프링 정규 시즌,4일차 2경기 1세트,Hanwha Life Esports,DRX,W,HLE DuDu,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+459,2021.01.16,2021 LoL 챔피언스 코리아 스프링 정규 시즌,4일차 1경기 2세트,kt Rolster,Liiv Sandbox,W,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus,LSB Summit,LSB Croco,LSB Fate,LSB Route,LSB Effort
+460,2021.01.16,2021 LoL 챔피언스 코리아 스프링 정규 시즌,4일차 1경기 1세트,Liiv Sandbox,kt Rolster,L,LSB Summit,LSB Croco,LSB Fate,LSB Route,LSB Effort,KT Doran,KT Blank,KT Ucal,KT HyBrid,KT Zzus
+461,2021.01.15,2021 LoL 챔피언스 코리아 스프링 정규 시즌,3일차 2경기 3세트,DWG KIA,T1,W,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,T1 Canna,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria
+462,2021.01.15,2021 LoL 챔피언스 코리아 스프링 정규 시즌,3일차 2경기 2세트,T1,DWG KIA,L,T1 Canna,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL
+463,2021.01.15,2021 LoL 챔피언스 코리아 스프링 정규 시즌,3일차 2경기 1세트,DWG KIA,T1,L,DK Khan,DK Canyon,DK ShowMaker,DK Ghost,DK BeryL,T1 Canna,T1 Ellim,T1 Faker,T1 Gumayusi,T1 Keria
+464,2021.01.15,2021 LoL 챔피언스 코리아 스프링 정규 시즌,3일차 1경기 2세트,Gen.G eSports,Fredit BRION,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Delight
+465,2021.01.15,2021 LoL 챔피언스 코리아 스프링 정규 시즌,3일차 1경기 1세트,Fredit BRION,Gen.G eSports,L,BRO Hoya,BRO UmTi,BRO Lava,BRO Hena,BRO Deligh,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+466,2021.01.14,2021 LoL 챔피언스 코리아 스프링 정규 시즌,2일차 2경기 3세트,DRX,Afreeca Freecs,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+467,2021.01.14,2021 LoL 챔피언스 코리아 스프링 정규 시즌,2일차 2경기 2세트,Afreeca Freecs,DRX,W,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca
+468,2021.01.14,2021 LoL 챔피언스 코리아 스프링 정규 시즌,2일차 2경기 1세트,DRX,Afreeca Freecs,W,DRX Kingen,DRX Pyosik,DRX SOLKA,DRX BAO,DRX Becca,AF Kiin,AF Dread,AF Fly,AF Bang,AF Lehends
+469,2021.01.14,2021 LoL 챔피언스 코리아 스프링 정규 시즌,2일차 1경기 3세트,NS RED FORCE,Liiv Sandbox,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,LSB Summit,LSB Croco,LSB Fate,LSB Route,LSB Effort
+470,2021.01.14,2021 LoL 챔피언스 코리아 스프링 정규 시즌,2일차 1경기 2세트,Liiv Sandbox,NS RED FORCE,W,LSB Summit,LSB Croco,LSB Fate,LSB Route,LSB Effort,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin
+471,2021.01.14,2021 LoL 챔피언스 코리아 스프링 정규 시즌,2일차 1경기 1세트,NS RED FORCE,Liiv Sandbox,W,NS Rich,NS Peanut,NS Bay,NS deokdam,NS Kellin,LSB Summit,LSB Croco,LSB Fate,LSB Route,LSB Effort
+472,2021.01.13,2021 LoL 챔피언스 코리아 스프링 정규 시즌,1일차 2경기 3세트,T1,Hanwha Life Esports,W,T1 Canna,T1 Ellim,T1 Clozer,T1 Gumayusi,T1 Keria,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+473,2021.01.13,2021 LoL 챔피언스 코리아 스프링 정규 시즌,1일차 2경기 2세트,Hanwha Life Esports,T1,W,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta,T1 Canna,T1 Ellim,T1 Clozer,T1 Gumayusi,T1 Keria
+474,2021.01.13,2021 LoL 챔피언스 코리아 스프링 정규 시즌,1일차 2경기 1세트,T1,Hanwha Life Esports,W,T1 Canna,T1 Ellim,T1 Clozer,T1 Gumayusi,T1 Keria,HLE Morgan,HLE Arthur,HLE Chovy,HLE Deft,HLE Vsta
+475,2021.01.13,2021 LoL 챔피언스 코리아 스프링 정규 시즌,1일차 1경기 2세트,kt Rolster,Gen.G eSports,L,KT Doran,KT Bonnie,KT Ucal,KT HyBrid,KT Zzus,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life
+476,2021.01.13,2021 LoL 챔피언스 코리아 스프링 정규 시즌,1일차 1경기 1세트,Gen.G eSports,kt Rolster,W,GEN Rascal,GEN Clid,GEN BDD,GEN Ruler,GEN Life,KT Doran,KT Bonnie,KT Ucal,KT HyBrid,KT Zzus
